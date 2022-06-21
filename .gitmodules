@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ROCR"]
+	path = ROCR
+	url = https://github.com/ipa-tys/rocr
+	shallow = true
+	registered = true
